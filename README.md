@@ -3,7 +3,7 @@
 ## Sobre mim
 * :books: Cursando Analise e Densenvolvimento de Sistemas/IFPB
 * :cactus: Paraibano
-* :boy: 18 anos
+* :boy: 21 anos
 
 ### Redes Sociais 
 * https://www.instagram.com/rafaabarroso/
