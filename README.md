@@ -1,11 +1,9 @@
 # Olá, eu sou Rafael Barroso!
 
 ## Sobre mim
-* :books: Cursando Analise e Densenvolvimento de Sistemas/IFPB
+* :books: Formado em Analise e Densenvolvimento de Sistemas/IFPB
 * :cactus: Paraibano
-* :boy: 21 anos
+* :boy: 22 anos
 
 ### Redes Sociais 
-* https://www.instagram.com/rafaabarroso/
-* https://www.facebook.com/rafael.barroso.777
-* https://twitter.com/Ra4fael
+* https://www.instagram.com/rafax.b/
